@@ -1,0 +1,850 @@
+{
+	"data": [{
+			"id": "0_1580804804.302",
+			"type": "feed",
+			"offset": 0,
+			"verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 972966587,
+				"type": "answer",
+				"url": "https://api.zhihu.com/answers/972966587",
+				"author": {
+					"id": "58a76921a927b99734e63f9814286cf8",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/58a76921a927b99734e63f9814286cf8",
+					"user_type": "people",
+					"url_token": "tao-zi-da-shu-91",
+					"name": "桃子大叔",
+					"headline": "爱做饭，看动漫的烘焙师",
+					"avatar_url": "https://pic4.zhimg.com/50/v2-1582117e6e6ef21b3721826e80ec6a5c_m.jpg",
+					"is_org": false,
+					"gender": 0,
+					"badge": [],
+					"followers_count": 260,
+					"is_following": false,
+					"is_followed": false
+				},
+				"created_time": 1578920513,
+				"updated_time": 1579413726,
+				"voteup_count": 2246,
+				"thanks_count": 141,
+				"comment_count": 477,
+				"is_copyable": true,
+				"question": {
+					"id": 356002972,
+					"type": "question",
+					"url": "https://api.zhihu.com/questions/356002972",
+					"author": {
+						"id": "7fc4e5005baa3fc1db7b34a7957c0adb",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/7fc4e5005baa3fc1db7b34a7957c0adb",
+						"user_type": "people",
+						"url_token": "nan-fang-chui-bai-1",
+						"name": "南方垂败",
+						"headline": "设计师",
+						"avatar_url": "https://pic4.zhimg.com/50/v2-4d0953c8cfe8dd5b1b08067c6f51eb94_m.jpg",
+						"is_org": false,
+						"gender": 1,
+						"badge": [],
+						"followers_count": 1,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "有哪部漫威电影侮辱了你的智商？",
+					"created": 1573809048,
+					"answer_count": 838,
+					"follower_count": 1581,
+					"comment_count": 42,
+					"bound_topic_ids": [
+						68,
+						17092,
+						23267,
+						158438,
+						209447
+					],
+					"is_following": false,
+					"excerpt": "",
+					"relationship": {
+						"is_author": false
+					},
+					"detail": "",
+					"question_type": "normal"
+				},
+				"thumbnail": "https://pic2.zhimg.com/v2-057663712d1b3b1beb8dc2aedeb58329.jpg",
+				"thumbnail_extra_info": {
+					"video_id": "1200158274211074048",
+					"type": "video",
+					"url": "https://pic2.zhimg.com/v2-057663712d1b3b1beb8dc2aedeb58329.jpg",
+					"height": 720,
+					"width": 1280,
+					"duration": 113,
+					"playlist": {
+						"ld": {
+							"url": "https://vdn1.vzuu.com/LD/beef17ba-3603-11ea-9187-6a7c2981c355.mp4?disable_local_cache=1&bu=feedroot&expiration=1580808403&auth_key=1580808403-0-0-2924c26199331eff74276689b0e787c8&f=mp4&v=hw",
+							"bitrate": 526,
+							"duration": 113,
+							"format": "mp4",
+							"fps": 25,
+							"height": 360,
+							"size": 7444840,
+							"width": 640
+						},
+						"sd": {
+							"url": "https://vdn1.vzuu.com/SD/beef17ba-3603-11ea-9187-6a7c2981c355.mp4?disable_local_cache=1&bu=feedroot&expiration=1580808403&auth_key=1580808403-0-0-acbda8d84af9a54388c0d2be793cb282&f=mp4&v=hw",
+							"bitrate": 916,
+							"duration": 113,
+							"format": "mp4",
+							"fps": 25,
+							"height": 478,
+							"size": 12965734,
+							"width": 848
+						},
+						"hd": {
+							"url": "https://vdn1.vzuu.com/HD/beef17ba-3603-11ea-9187-6a7c2981c355.mp4?disable_local_cache=1&bu=feedroot&expiration=1580808403&auth_key=1580808403-0-0-476bb6652a53049160fcd11b65589b5d&f=mp4&v=hw",
+							"bitrate": 1693,
+							"duration": 113,
+							"format": "mp4",
+							"fps": 25,
+							"height": 720,
+							"size": 23942666,
+							"width": 1280
+						}
+					},
+					"show_maker_entrance": false
+				},
+				"excerpt": "什么情况？中午吃顿饭的功夫就破百了，晚上又能多吃两碗饭了 --- 《复仇者联盟2：奥创纪元》里快银被子弹击中身亡，王德发 官方给的能力数值，快银的速度是速度失真（超光速） 《X战警：逆转未来》里的快银才是真正的快银 还有《X战警：天启》里，快银一人救下学院众人 这才是快银好嘛，这才是！！！",
+				"excerpt_new": "什么情况？中午吃顿饭的功夫就破百了，晚上又能多吃两碗饭了 --- 《复仇者联盟2：奥创纪元》里快银被子弹击中身亡，王德发 官方给的能力数值，快银的速度是速度失真（超光速） 《X战警：逆转未来》里的快银才是真正的快银 还有《X战警：天启》里，快银一人救下学院众人 这才是快银好嘛，这才是！！！",
+				"preview_type": "default",
+				"preview_text": "",
+				"reshipment_settings": "allowed",
+				"content": "<p>什么情况？中午吃顿饭的功夫就破百了，晚上又能多吃两碗饭了</p><p>----------------------------------------------------------------------------------------------------</p><p>《复仇者联盟2：奥创纪元》里快银被子弹击中身亡，王德发</p><p>官方给的能力数值，快银的速度是速度失真（超光速）</p><p>《X战警：逆转未来》里的快银才是真正的快银</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1200158274211074048\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"X战警：逆转未来\" data-poster=\"https://pic2.zhimg.com/v2-057663712d1b3b1beb8dc2aedeb58329.jpg\" data-lens-id=\"1200158274211074048\"><img class=\"thumbnail\" src=\"https://pic2.zhimg.com/v2-057663712d1b3b1beb8dc2aedeb58329.jpg\"/><span class=\"content\"><span class=\"title\">X战警：逆转未来<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1200158274211074048</span></span></a><p>还有《X战警：天启》里，快银一人救下学院众人</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1200160033541177344\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"X战警：天启\" data-poster=\"https://pic4.zhimg.com/v2-5af86299e6d10dedae11223086290e5b.jpg\" data-lens-id=\"1200160033541177344\"><img class=\"thumbnail\" src=\"https://pic4.zhimg.com/v2-5af86299e6d10dedae11223086290e5b.jpg\"/><span class=\"content\"><span class=\"title\">X战警：天启<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1200160033541177344</span></span></a><p>这才是快银好嘛，这才是！！！</p>",
+				"mark_infos": [],
+				"relationship": {
+					"is_thanked": false,
+					"is_nothelp": false,
+					"voting": 0,
+					"upvoted_followee_ids": []
+				},
+				"is_labeled": false,
+				"visited_count": 543669
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 972966587}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19550429",
+					"object_type": "topic",
+					"reason_text": "电影"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19601337",
+					"object_type": "topic",
+					"reason_text": "好莱坞电影"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "20019234",
+					"object_type": "topic",
+					"reason_text": "电影作品"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "20169501",
+					"object_type": "topic",
+					"reason_text": "漫威电影宇宙（Marvel Cinematic.."
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "58a76921a927b99734e63f9814286cf8",
+					"object_type": "people",
+					"reason_text": "桃子大叔创作的内容"
+				}
+			],
+			"attached_info": "CrwBCOGbrY3c+dSMYBAEGgkyMDY5Njc1ODggwdTx8AUoxhEw3QNAAEoLCgJGVhIBMBgAIABSE2ZlZWRyZV92aWRlb19hbnN3ZXJaCDQxMzg5NjM4aICg48T3svTTEHIJOTcyOTY2NTg3eCeKAQkzNTYwMDI5NzKqAQlyZWNvbW1lbmTyATkIABI1cnc6LTMuMDtpc286MC4wO2JpOjAuMDtydWxlczpWZXJ0aWNhbE5ld1VzZXJSZXBvc1J1bGU=",
+			"actors": [{
+				"id": "19550429",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19550429",
+				"avatar_url": "https://pic3.zhimg.com/50/7d8c15df29ce6900c80f9cf630992687_s.jpg",
+				"name": "电影",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"show_actor_time": false,
+			"action_text": "电影",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		},
+		{
+			"id": "1_1580804804.0",
+			"type": "feed",
+			"offset": 1,
+			"verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 771934157,
+				"type": "answer",
+				"url": "https://api.zhihu.com/answers/771934157",
+				"author": {
+					"id": "3a2dbe33706510df98326039bee5a584",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/3a2dbe33706510df98326039bee5a584",
+					"user_type": "organization",
+					"url_token": "lao-feng-shu-ma-72",
+					"name": "老冯数码",
+					"headline": "微博，公众号：老冯数码",
+					"avatar_url": "https://pic2.zhimg.com/50/v2-253171d8153a308593b154deeae69a25_m.jpg",
+					"is_org": true,
+					"gender": 0,
+					"badge": [{
+						"type": "identity",
+						"description": "已认证的官方帐号"
+					}],
+					"followers_count": 17819,
+					"is_following": false,
+					"is_followed": false
+				},
+				"created_time": 1564714208,
+				"updated_time": 1565183736,
+				"voteup_count": 5424,
+				"thanks_count": 3114,
+				"comment_count": 321,
+				"is_copyable": false,
+				"question": {
+					"id": 46945957,
+					"type": "question",
+					"url": "https://api.zhihu.com/questions/46945957",
+					"author": {
+						"id": "b5a70430927a665d1ca01408662f69a9",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/b5a70430927a665d1ca01408662f69a9",
+						"user_type": "people",
+						"url_token": "qin-shan-77",
+						"name": "周可馨",
+						"headline": "",
+						"avatar_url": "https://pic3.zhimg.com/50/9c9c8e0664780cb1f15222baf4aed93a_m.jpg",
+						"is_org": false,
+						"gender": 0,
+						"badge": [],
+						"followers_count": 0,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "新买的电脑需要注意什么？",
+					"created": 1464671787,
+					"answer_count": 107,
+					"follower_count": 3661,
+					"comment_count": 9,
+					"bound_topic_ids": [
+						3132,
+						28470
+					],
+					"is_following": false,
+					"excerpt": "",
+					"relationship": {
+						"is_author": false
+					},
+					"detail": "",
+					"question_type": "normal"
+				},
+				"thumbnail": "https://pic3.zhimg.com/50/v2-92f18cbb9532b763ec54103cf989920a_200x112.jpg",
+				"excerpt": "经常有小白问我，新买的笔记本/台式机应该如何检查机子是否是新机？ 其实吧，如果是京东自营旗舰店或者天猫旗舰店，基本不用担心是否是新机的问题。因为旗舰店都是品牌的ODM，厂家经营和发货。如果连厂家都卖假货/换件机的话，那你跑到哪去都买不到全新机了&middot;&middot;&middot;&middot;&middot; 不过为了打消你的疑虑，也为了我能水一篇回答，今天就来介绍一下通用的笔记本/台式机验机办法吧! 这里我会介绍两个办法：小白专用的 十分钟快速验机法 和更加麻&hellip;",
+				"excerpt_new": "经常有小白问我，新买的笔记本/台式机应该如何检查机子是否是新机？ 其实吧，如果是京东自营旗舰店或者天猫旗舰店，基本不用担心是否是新机的问题。因为旗舰店都是品牌的ODM，厂家经营和发货。如果连厂家都卖假货/换件机的话，那你跑到哪去都买不到全新机了&middot;&middot;&middot;&middot;&middot; 不过为了打消你的疑虑，也为了我能水一篇回答，今天就来介绍一下通用的笔记本/台式机验机办法吧! 这里我会介绍两个办法：小白专用的 十分钟快速验机法 和更加麻&hellip;",
+				"preview_type": "default",
+				"preview_text": "",
+				"reshipment_settings": "disallowed",
+				"content": "<p>经常有小白问我，新买的笔记本/台式机应该如何检查机子是否是新机？</p><p>其实吧，如果是京东自营旗舰店或者天猫旗舰店，基本不用担心是否是新机的问题。因为旗舰店都是品牌的ODM，厂家经营和发货。如果连厂家都卖假货/换件机的话，那你跑到哪去都买不到全新机了·····</p><p>不过为了打消你的疑虑，也为了我能水一篇回答，今天就来介绍一下通用的笔记本/台式机验机办法吧!</p><p>这里我会介绍两个办法：小白专用的<b>十分钟快速验机法 </b>和更加麻烦一点的<b>标准验机法</b>。（这俩名字都是我自己起的区别一下难度）前者适合不想折腾的小白，后者麻烦但是验机更加齐全准确。看你个人需求咯</p><hr/><h2>工具准备：</h2><p>一个最少4GB大小的U盘；</p><p>一台可以联网的Windows电脑；</p><p>你心爱的，未开箱的新电脑。</p><p>在可以联网的另一台电脑上下载如下软件：</p><p>如果想用小白验机法，请下载鲁大师并拷背到U盘</p><p>如果想用标准验机法，请下载AIDA64并拷贝到U盘</p><hr/><h2>验机开始</h2><p><b>第一步：签收快递</b></p><p>首先看箱子有没有被开过的痕迹（打了两次封箱胶等），另外箱子如果磕碰很严重也要找售后寻求帮助。如果没有，就可以直接签收了。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-92f18cbb9532b763ec54103cf989920a_hd.jpg\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"960\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-ad6590b7d1267d1d89051e4c6ac4720e_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-92f18cbb9532b763ec54103cf989920a_r.jpg\"/><figcaption>图片来自互联网，非本人实拍</figcaption></figure><p>一般来说，到手的笔记本上面的防拆贴（黑色圆贴，每家品牌的防拆贴形状都不一样）都是完好的。上面这个机子的防拆贴就被拆开了，说明可能在运输过程曾经被拆卸过，遇到这种情况不要犹豫，立刻拍照片+拒绝签字并反馈给店家。</p><p><b>第二步：开箱</b></p><p>打开箱子后撕开减震的填充物后就可以看到机器的包装盒了，一般来说包装盒是不会有任何磨损的，因为外面减震填充物吸收了所有磕碰的动能。拿出机器后别急着开机，对比一下盒子上的序列号和机器底面的序列号是否相同。如果不同请询问客服该情况是否正常（有的牌子序列号就是不一样的，比如罗技），如果不正常立马退货。大概的检视一下笔记本是否有二次贴膜的痕迹，另外还有看下各个常用接口处是否有磨损，如果有磨损很可能是“二手货”（SD卡槽、USB接口和电源适配器接口等），如果有明显磨损可以酌情退货。A面和C面同理。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-2f5cefcf1f5ef0114003586042f4ff4a_hd.jpg\" data-size=\"normal\" data-rawwidth=\"336\" data-rawheight=\"218\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-a8706d2fedf4b02647eb78ce59912be4_hd.jpg\" class=\"content_image\" width=\"336\"/><figcaption>USB如果有磨损，请拍照备用。USB2.0为黑色，USB3.0为蓝色</figcaption></figure><p><b>第三步：开机</b></p><p>可能很多人会奇怪为什么开机也要专门拿出来写一节。其实就一句话可以搞定：“开机设置的时候一定不要连接网络，提醒连接的时候直接选择跳过。”因为笔记本一般预装的系统是正版Windows 10家庭版，一机一许可且联网后会自动激活。激活后是很难退货的，所以在确定笔记本完美前不要联网。</p><p>到了第四步这里，就开始有分化了。</p><p>先说<b>小白快速验机法</b>：</p><p>用U盘安装鲁大师。注意千万不要点上一些莫名其妙的安装文件。</p><p>等安装完了，鲁大师自动启动：</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-4093094f426a46c3d6e7ea8c2209ba14_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"763\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-b9112377c3ffa29db254ca2a34789ab5_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1138\" data-original=\"https://pic2.zhimg.com/v2-4093094f426a46c3d6e7ea8c2209ba14_r.jpg\"/></figure><p>点击右下角的屏幕检测，鲁大师会将屏幕用同一种颜色显示多次，这个是让你来看屏幕有没有坏点或者亮点的。正常的情况应该是和下图一样</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-fa3b2c06a3ed47250645d6d2e9514034_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4000\" data-rawheight=\"3000\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-5c2215e8528077e108c76b53dfef639a_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"4000\" data-original=\"https://pic2.zhimg.com/v2-fa3b2c06a3ed47250645d6d2e9514034_r.jpg\"/></figure><p>如果发现屏幕上有坏点，就是一个不发光的色点或者发其他颜色的色点，那就要考虑退货了。</p><p>国家规定三个坏点才能退货。如果没超过三个坏点，只有一两个坏点or亮点怎么办？</p><p>京东自营和天猫旗舰店都是七天无条件退货，因此坏点如果有，哪怕只有一个都可以退货。如果你是京东第三方或者天猫，淘宝第三方商家购买的，那就没办法了，认栽吧少年·····</p><p>之后点开硬件参数中的硬盘信息：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-8ed270a2ca73f048facf7229a4f97606_hd.jpg\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"763\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-b730183c57a66ff47f681d10b538ffb5_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1138\" data-original=\"https://pic4.zhimg.com/v2-8ed270a2ca73f048facf7229a4f97606_r.jpg\"/><figcaption>我拿我自己的电脑演示的，新机是不可能通电次数1592次的·····</figcaption></figure><p>查看硬盘的通电次数和通电时间。一般来说，全新机通电次数会在20次以内，通电时间20小时以内。如果超过这个次数就要小心了！很有可能是翻新机或者退订机。</p><p>之后！非常重要的一步！</p><p><b>卸载你的鲁大师</b></p><p>因为这个软件比较流氓，时不时在你电脑上搞个大新闻，比如弹个广告，安个软件啥的····所以尽早卸载为妙。</p><p>对，我就是拔X无情的那种男人！！</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-76fa5abe0baaabbcbd85a6abea4c7650_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"196\" data-rawheight=\"198\" class=\"content_image\" width=\"196\"/></figure><p>PS：鲁大师的检测结果其实并不是非常精准。但是鉴于其极其傻瓜的使用方式，我仅推荐给小白和懒得折腾的朋友</p><p><b>标准检测法：</b></p><p>软件检测1 - 固态硬盘。首先将装好软件的U盘插入电脑，打开AIDA64，点击存储设备-&gt;SMART看硬盘的S.M.A.R.T信息，如下图所示</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-4afad145d82e34534031c733e46ec7d2_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"693\" data-rawheight=\"518\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-7ff91fce3b47dd3b4556a6017693fe50_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"693\" data-original=\"https://pic2.zhimg.com/v2-4afad145d82e34534031c733e46ec7d2_r.jpg\"/></figure><p>主要看四个数据：写入量、Power Cycles、Power-On Hours和Unsafe Shutdowns. </p><p>写入量要求小于50GB，Power cycles小于20次，Power-On Hours为20小时内且Unsafe shutdowns小于或等于1次为合格。最理想的情况是所有数据均接近于0. 不要求为0是因为出厂测试的时候可能会开机检测，造成一些写入或通电。</p><p>第三步：软件检测 – 显示器。在AIDA64顶部菜单栏中选择工具-显示器检测。</p><p>步骤示意图：</p><p>1</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-b77c50c4ec8975813bc10050acdc06f7_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"456\" data-rawheight=\"244\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-a28110a742d97689d1158d11fdd18fa2_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"456\" data-original=\"https://pic3.zhimg.com/v2-b77c50c4ec8975813bc10050acdc06f7_r.jpg\"/></figure><p>2</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-1a24c7bc8bf75a3680c5172a150b241f_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"623\" data-rawheight=\"456\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-6f81ef5a470c8d5383b80538d97ad053_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"623\" data-original=\"https://pic1.zhimg.com/v2-1a24c7bc8bf75a3680c5172a150b241f_r.jpg\"/></figure><p>3</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-5b2ca06e756800ac7dcfddde9a7b03b1_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"461\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-72d03baf372460648eeb6feab211de47_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"628\" data-original=\"https://pic4.zhimg.com/v2-5b2ca06e756800ac7dcfddde9a7b03b1_r.jpg\"/></figure><p>4</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-d74d102b9f1af814da4eb13dde58513e_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"604\" data-rawheight=\"443\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-2e92d03bea06df009f2f17184a805b86_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"604\" data-original=\"https://pic2.zhimg.com/v2-d74d102b9f1af814da4eb13dde58513e_r.jpg\"/></figure><p>5</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-2bcd9356a7628c5e48f4d0f881fa05fd_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"612\" data-rawheight=\"449\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-c7001ac434efb7816bf68ec9ad8c1c03_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"612\" data-original=\"https://pic3.zhimg.com/v2-2bcd9356a7628c5e48f4d0f881fa05fd_r.jpg\"/></figure><p>第一步可以忽略，我只是觉得LCD Calibration的界面很帅而已。第二步要全部取消勾选，反正也没啥用。第三步的单色填充测试比较重要。首先把屏幕擦干净，一点灰尘都不要看到。在显示蓝色/红色/绿色的时候要留意屏幕上有没有灰色的小点点；显示白色的时候找黑色和灰色的小点点；显示黑色的时候找白色的小点点。虽然国家法律规定3个点就可以退货了。但是分辨率越高的屏幕，出现坏点的几率也越高。1920x1080的显示器来说，一般最多可以接受3个点；2K显示器可以接受大约5个点；而4K超过9个点就可以直接退货了，坏点和亮点有时候会让你非常抓狂，严重影响视觉效果。</p><p>第四步：舒适度测试。如果你的笔记本能活到这一步，那么恭喜，你的电脑品控和质量都非常的ok了。这时候你需要做一系列测试看看这台电脑是否适合自己。一样，我们打开AIDA64，并把电脑搬到最常使用的场景中。在软件最顶部的菜单栏中选择工具-系统稳定性测试</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-2017e660f02fffdad597960fc69340aa_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"557\" data-rawheight=\"253\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-9ea6fe896da82f5a2eb5deaeb3256e9d_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"557\" data-original=\"https://pic1.zhimg.com/v2-2017e660f02fffdad597960fc69340aa_r.jpg\"/></figure><p>之后你会看到一个像统计表的东西</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-1aec38163ed940d08bdbe04874f302e6_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"693\" data-rawheight=\"446\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-bf36067a42e054debc631a5014f3bcec_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"693\" data-original=\"https://pic3.zhimg.com/v2-1aec38163ed940d08bdbe04874f302e6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>点击Start后运行十分钟。单烤FPU可以最大化的榨干CPU性能，负载非常高。这时候CPU应该热的不行了，非常考验散热模组。先不要管温度和频率，这个在你购买新电脑之前想必已经有数了，比如烤机温度多少，降频幅度如何。我们主要是听噪音。烤FPU的时候风扇一般都在狂转，这时候你要感受一下噪音水平是否可以接受，是否太吵。这个是评测中看不出来的，这个尺度必须要自己去把握和拿捏。如果噪音太大，你可以考虑是否要重新选择一台笔记本电脑，或者稍微忍一下继续用着。电脑这种长期使用的东西是合适最重要。不用说拉不下面子不好意思退货的。</p><p>在确认收货钱你可以再使用几天，看看是否真的适合自己。因为一个东西的缺陷很难在一两个小时内浮现，所以比较深度的使用更可以了解产品的优劣。另外就是一定要保持良好的使用习惯。良好的使用习惯是最有效的杀毒软件。</p><p>良好的使用习惯包括</p><p>1. 不用盗版软件</p><p>2. 不要相信国内的那些下载站</p><p>3. 不装任何系统优化软件</p><p>4. 尽量不动系统文件，不修改注册表</p><p>5. 不上来路不明的网站</p><p>如果非要用杀毒软件又不肯付钱订阅强大的软件，请使用火绒；资金充裕的可以考虑花钱订阅McAfee或者卡巴斯基。这两个是真的很强。</p><p>其他也没什么好说的了。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-f535bec4ce62061329425f46dc0c23ef_hd.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"260\" data-rawheight=\"216\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-4dbff0613c109946b7cc6ed34ce6248d_hd.jpg\" class=\"content_image\" width=\"260\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>本文联合作者： <a class=\"member_mention\" href=\"https://www.zhihu.com/people/59e5d0ec435bdb4289446405ce064775\" data-hash=\"59e5d0ec435bdb4289446405ce064775\" data-hovercard=\"p$b$59e5d0ec435bdb4289446405ce064775\">@Mellperbia</a> </p><p>相关阅读：<a href=\"https://zhuanlan.zhihu.com/p/75536866\" class=\"internal\">老冯数码：2019年高性价比笔记本电脑排行榜</a></p><p>欢迎关注我的专栏：<a href=\"https://zhuanlan.zhihu.com/c_1133080313705205760\" class=\"internal\">老冯数码</a></p>",
+				"mark_infos": [],
+				"relationship": {
+					"is_thanked": false,
+					"is_nothelp": false,
+					"voting": 0,
+					"upvoted_followee_ids": []
+				},
+				"is_labeled": true,
+				"visited_count": 442201
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 771934157}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19559604",
+					"object_type": "topic",
+					"reason_text": "笔记本电脑"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19635319",
+					"object_type": "topic",
+					"reason_text": "电脑知识"
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "3a2dbe33706510df98326039bee5a584",
+					"object_type": "people",
+					"reason_text": "老冯数码创作的内容"
+				}
+			],
+			"attached_info": "CqsCCOGbrY3c+dSMYBAEGgkxNzA0MTkwODMg4MmO6gUosCowwQJAAUoWCgRJQ0FOEgoyMDQ1OTMyOTYwGAAgAFIZaXRlbV9jZl9hbnN3ZXJfYWRkX2Fuc3dlcloIMTA5OTIyOTJyCTc3MTkzNDE1N3gJggFJaHR0cHM6Ly9waWMzLnpoaW1nLmNvbS81MC92Mi05MmYxOGNiYjk1MzJiNzYzZWM1NDEwM2NmOTg5OTIwYV8yMDB4MTEyLmpwZ4oBCDQ2OTQ1OTU3qgEJcmVjb21tZW5k8gFWCAASUnJ3OjM3LjA7aXNvOjYuMDtiaTowLjA7cnVsZXM6U3BlY2lhbGl0eUNvbnRlbnRXZWlnaHRSdWxlLEhpZ2hJbnRlcmFjdGl2ZVdlaWdodFJ1bGU=",
+			"actors": [{
+				"id": "19559604",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19559604",
+				"avatar_url": "https://pic2.zhimg.com/50/v2-004566af0513e837e389333549c50bcf_s.jpg",
+				"name": "笔记本电脑",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"show_actor_time": false,
+			"action_text": "笔记本电脑",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		},
+		{
+			"id": "2_1580804804.369",
+			"type": "feed",
+			"offset": 2,
+			"verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 629784169,
+				"type": "answer",
+				"url": "https://api.zhihu.com/answers/629784169",
+				"author": {
+					"id": "6692f76ffd7841a4c8027ebd5e4a9b2b",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/6692f76ffd7841a4c8027ebd5e4a9b2b",
+					"user_type": "people",
+					"url_token": "bo-bo-zi-xun-shi",
+					"name": "恋爱大神",
+					"headline": "公众号：【恋爱大神学】",
+					"avatar_url": "https://pic2.zhimg.com/50/v2-81200150df0f1b2b195281e408ed3ea6_m.jpg",
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"followers_count": 24817,
+					"is_following": false,
+					"is_followed": false
+				},
+				"created_time": 1553259959,
+				"updated_time": 1572909255,
+				"voteup_count": 27237,
+				"thanks_count": 24594,
+				"comment_count": 635,
+				"is_copyable": true,
+				"question": {
+					"id": 315085526,
+					"type": "question",
+					"url": "https://api.zhihu.com/questions/315085526",
+					"author": {
+						"id": "b897c6e16d1f6cae9f0d647073040803",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/b897c6e16d1f6cae9f0d647073040803",
+						"user_type": "people",
+						"url_token": "shen-xun-97",
+						"name": "小猪爱吃酱肘子",
+						"headline": "",
+						"avatar_url": "https://pic4.zhimg.com/50/da8e974dc_m.jpg",
+						"is_org": false,
+						"gender": 0,
+						"badge": [],
+						"followers_count": 0,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "怎样追女生而又不成为一个舔狗?",
+					"created": 1552029510,
+					"answer_count": 710,
+					"follower_count": 12857,
+					"comment_count": 18,
+					"bound_topic_ids": [
+						404,
+						4729,
+						13333,
+						26138,
+						377448
+					],
+					"is_following": false,
+					"excerpt": "",
+					"relationship": {
+						"is_author": false
+					},
+					"detail": "",
+					"question_type": "normal"
+				},
+				"thumbnail": "",
+				"excerpt": "想要追女生，又不成为舔狗，最重要是心态建设。 恋爱学中，有一个平衡心态原则，任何一方跪舔，都会使恋爱关系失衡，最终倒塌。 想要维持一个好的，平衡的心态，就要从日常细节入手，很多人善于追女生，就是细节做的出众。 本人总结了九条关键细节，如下： 1、不要越级，越级就会形成跪舔，做你们所处关系阶段该做的事，不该做的事，一件也不要做。举个越级的例子，和女生微信聊天时，女生有时候会说&ldquo;我感冒了&rdquo;，很多男生会直&hellip;",
+				"excerpt_new": "想要追女生，又不成为舔狗，最重要是心态建设。 恋爱学中，有一个平衡心态原则，任何一方跪舔，都会使恋爱关系失衡，最终倒塌。 想要维持一个好的，平衡的心态，就要从日常细节入手，很多人善于追女生，就是细节做的出众。 本人总结了九条关键细节，如下： 1、不要越级，越级就会形成跪舔，做你们所处关系阶段该做的事，不该做的事，一件也不要做。举个越级的例子，和女生微信聊天时，女生有时候会说&ldquo;我感冒了&rdquo;，很多男生会直&hellip;",
+				"preview_type": "default",
+				"preview_text": "",
+				"reshipment_settings": "allowed",
+				"content": "<p>想要追女生，又不成为舔狗，最重要是心态建设。</p><p>恋爱学中，有一个平衡心态原则，任何一方跪舔，都会使恋爱关系失衡，最终倒塌。</p><p>想要维持一个好的，平衡的心态，就要从日常细节入手，很多人善于追女生，就是细节做的出众。</p><p>本人总结了九条关键细节，如下：</p><p><b>1、不要越级，越级就会形成跪舔，做你们所处关系阶段该做的事，不该做的事，一件也不要做。</b></p><p>举个越级的例子，和女生微信聊天时，女生有时候会说“我感冒了”，很多男生会直接回复“多喝点水，吃点感冒药”。这句话看似很暖，很贴心，但深处看已经越级了。</p><p>你要知道，对面的那个女生和你只是“普通朋友”关系，你这个阶段要做的，不是急于体贴关心，而是建立吸引。你的主要工作，是让她脱离感冒时的负面情绪，变得开心，从而觉得你这个人还蛮有意思的，有和你谈恋爱的冲动。</p><p>怎么做呢？我遇到女生说感冒时，经常会让对方拿起手机，对着手机吹一吹。女生可能会觉得有些莫名其妙，但一般会照做，有些会忍不住问为什么那么做。我会说“你通过手机把感冒传染给我，你就好了哦”。</p><p>这里避免和女生陷入男女朋友才会有的关心陷阱，通过类似小游戏的方式，让对方开心，增加彼此的互动联系感，这才是最好的方式。</p><p><b>2、“努力就会成功，付出就有回报”要看如何努力，如何付出。做过了，就是跪舔。</b></p><p>感情不是买卖，最初谈的时候，就不要总想着愿意为对方做一切，奢望对方看懂珍惜你的付出，从而以身相许。</p><p>爱情是相互吸引，而不是徒劳付出。你该做的，是忍住内心的火热，将你的“想付出”的想法一点点给到对方，然后看对方的反馈再选择是否进一步付出。</p><p>比如我们日常的约会见面，说好的下午五点见，你等到六点对方才来。女生会问是不是等很久了，很多男生会客气的说“没有没有，我也才到”。</p><p>这里你多等一个小时就是你的付出，首先你的付出应该让女生看到，你应该说“是呢，确实等了一个小时了，不过等你的时间好像过得很快，没有等很久的感觉”。</p><p>将你的付出让女生知道，接下来看女生的反馈。</p><p>如果女生说“那也很不好意思，今天这顿饭我请了”，这个女生你就可以继续付出，投入你的经历和感情，因为她值得。</p><p>如果女生说“不好意思，这次真的有事”，你应该说“没关系，我理解的”。下次见面她确实没有迟到，这个女生你就可以继续付出。下次见面她又迟到了，无论什么原因，你该打住你的付出了，因为你们之间的天平已经倾斜了，你该做的，不是继续表示理解。而是找机会撤离，比如说“临时有事”。后续也不再主动联系她，用稍微冷一点，不直接撕破脸皮的方式“惩罚”她，让你们之间的天平拉回来一些，你才有可能追到她。</p><p><b>3、追女生靠的不是无原则的好，而是吸引。</b></p><p>这点其实好理解，男女间的爱，是靠吸引建立的，而不是“对她好”。对她好的人太多了，爸爸、妈妈、爷爷、奶奶，还有那些像苍蝇一样整天围绕她身边，想要对她好的男生们。</p><p>你还在追这个女生，说明你们还没有成为男女朋友，还在普通朋友阶段。而普通朋友阶段的好，往往是不值钱的，甚至让女生觉得厌烦，有压力，恶心，觉得你企图心太强。</p><p>女生需要男生对她好，但有个定语，“男朋友”的好。</p><p>所以你追女生时的好，恰当有些就足够了，千万不要像江水一般，冲女生一脸。你最该做的，是吸引女生，只有吸引，才能栓住女生的注意力，才能在女生内心扎根，才能让女生日夜想你。</p><p>动物靠击败其他同类建立吸引，而男生靠什么呢？</p><p>幽默、风趣、真诚、善良、有上进心、帅气干净，成熟，这些才是让一个女生喜欢上你的利器。</p><p><b>4、对她好，但你的好也要带条件，进行价值互换。</b></p><p>你的好，从另一个角度看，如果确实是女生想要的“好”，那么这个“好”就是你的一种价值。</p><p>如果价值不进行交换，那么你的这个价值就浪费了，太可惜。</p><p>如何将“你的好”这个价值充分进行价值互换呢？</p><p>比如你经常找女生聊天，而且女生愿意和你聊，那么你就要想办法将你“陪她聊”这个价值进行对等互换。</p><p>你的聊天让女生开心，那么你就要索取这种价值的回报，提出你的条件，比如你主动邀约，和女生见面吃饭。</p><p>女生见面和你吃饭，就是男生聊天让女生开心的价值互换和条件。</p><p>男生千万不要不敢索取价值提条件，只有你不断的向女生索取价值，女生才会对你投入越来越多，才会越来越陷入你的世界，无法自拔，才会爱上你。</p><p>很多男生不敢提条件，最终结果就是成了女生的专属陪聊，成了所谓的蓝颜知己，或者备胎。</p><p><b>5、跷跷板两端，一端倾斜，必然两个人都掉落。</b></p><p><b>6、社交能量是守恒的，相互吸引，能量才对等，当然相互舔也可以，很少</b>。</p><p><b>7、取暖的刺猬，挨太近扎，挨太远没有温度，要把握好度。</b></p><p>爱情很有意思，既不能追太紧，又不能追太松，必须得学会把握“度”，要追的恰到好处。</p><p>就像“舔狗”这个词一样，为什么很多男生追着追着就成舔狗了？不是他们天生就是舔狗，而是最初追女生时，你是一定得舔一下的，你不舔更追不到。</p><p>就比如和女生聊天，你最初一定得主动和女生聊天的，你不主动，那女生知道你是谁呢？你在她眼中不过是路人甲，还不如舔狗呢 。</p><p>但是为什么很多男生一不小心，就成为“舔”字后面的“狗”了呢？是因为你舔的太多了，舔的毫无底线，口水都蹭了女生一脸，女生自然觉得恶心。</p><p>就比如上面说的主动找女生聊天，第一次你发起了话题，你是要看女生的反应，来决定你第二次主动联系的间隔，而不是每次都是一想到她就找她聊。</p><p>比如聊的好，你可以一周后再主动联系一次，如果聊的不好，那就隔两周，如果聊的很不好，那就隔一个月。你做好主动聊天的频次把控就行，但你绝对不能说不主动聊了。你不主动聊，那难道等天上掉馅饼，掉林妹妹吗？别幻想了。</p><p>女生只有在你主动找她聊天，聊的好时，才会想着回馈你，主动找你聊的（当然王八之气一散，女生就扑过来的那种男生除外）。</p><p><b>8、每犯一次错，天平就会严重倾斜一次。</b></p><p>我一直讲，犯错就像踩雷，是追女生的大忌讳。我在追女生时，宁愿不出彩，也不愿意犯错。</p><p>举个例子，很多男生会奇怪，身边的一些男生，明明很普通，没什么吸引力，为什么能娶到美娇妻？那是因为人家在追女生的过程中，很少犯错。</p><p>有时候追一个女生，你从头到尾不犯错，就够了。有时候剩者为王，这个“剩”字真的很牛逼。在追女生这条慢慢长路上，很多看似很强大的男生，都是死在某一些，甚至一个错误上的。而那些看着平平无奇的男生，就是能够一直坚持下来，熬死所有竞争对手，最终抱得美人归。</p><p><b>9、不要暴露过多需求感，需求过多，也是跪舔，要让自己的需求朦胧化。</b></p><p>“需求感”这个词，会让女生觉得非常非常非常有压力。这里用三个“非常”，就是想说明需求感会让女生压力有多大。</p><p>作为一名男性，暴露需求感实际是一种很low的做法。你要知道，女生是需要被你爱的，需要被你保护的，女生才是真正有“需求感”的那个人，哪个女生愿意满足一个生人的强烈需求，愿意突然多照顾一个男生？</p><p>那样是搞反了，会让女生觉得很压力山大，她要找的是解决她需求的人，而不是向她提需求的人。</p><p>所以男生一定切忌不要暴露“需求感”，你可以让需求朦胧化，将暴露“需求感”转化为暴露“好感”。</p><p>“好感”这个词也很有意思，能被别人喜欢，是一种心理上的满足，特别是女生，能充分满足她们的些许虚荣心。</p><p>女生都是有虚荣心的，区别只是有人多，有人少而已。特别是一个男生的“好感”，能充分满足“她很漂亮”这个虚荣心。你说一个女生会嫌弃一件能证明她漂亮这个事实的事情吗？哪怕一点点，你表达出的“好感”，也会让女生内心产生一丝涟漪的。</p><p>举个将“需求感”变化为“好感”的例子。</p><p>很多男生在表白时，总会说“你做我女朋友，好吗？”，这种需要女生给出明确回复的，就是需求感，会给女生压力，甚至有一种被强迫的感觉。</p><p>而当你换成“和你在一起每时每刻都很开心，我想一辈子和你呆在一起”，这个就是好感，不需要女生给出答复，或者叫主动给出答复。</p><p>这时女生完全可以默不作声，她完全可以不在言语上答复你。她如果愿意和你在一起，她只需要一个确定的眼神，一个害羞的表情，你就知道了她的答案，你再自然的牵住她的手，一切便水到渠成了。</p><p>做好上述九条细节，你想成为舔狗都难。</p><p><b>欢迎关注 </b><a class=\"member_mention\" href=\"https://www.zhihu.com/people/6692f76ffd7841a4c8027ebd5e4a9b2b\" data-hash=\"6692f76ffd7841a4c8027ebd5e4a9b2b\" data-hovercard=\"p$b$6692f76ffd7841a4c8027ebd5e4a9b2b\">@恋爱大神</a><b> 阅读更多恋爱好文</b></p>",
+				"mark_infos": [],
+				"relationship": {
+					"is_thanked": false,
+					"is_nothelp": false,
+					"voting": 0,
+					"upvoted_followee_ids": []
+				},
+				"is_labeled": false,
+				"visited_count": 1205924
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 629784169}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19628384",
+					"object_type": "topic",
+					"reason_text": "恋爱心理"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19551432",
+					"object_type": "topic",
+					"reason_text": "心理学"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19590285",
+					"object_type": "topic",
+					"reason_text": "追求女孩"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "20674003",
+					"object_type": "topic",
+					"reason_text": "舔狗"
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "6692f76ffd7841a4c8027ebd5e4a9b2b",
+					"object_type": "people",
+					"reason_text": "恋爱大神创作的内容"
+				}
+			],
+			"attached_info": "CuEBCOGbrY3c+dSMYBAEGgkxNDQ1NzQyOTAgt7vT5AUo5dQBMPsEQAJKFgoESUNBThIKMTk4OTkwMDc1MBgAIABSGWl0ZW1fY2ZfYW5zd2VyX2FkZF9hbnN3ZXJaCDMyMjk1NjY3cgk2Mjk3ODQxNjl4CYoBCTMxNTA4NTUyNqoBCXJlY29tbWVuZPIBVggAElJydzo4LjA7aXNvOjQyLjA7Ymk6MC4wO3J1bGVzOlNwZWNpYWxpdHlDb250ZW50V2VpZ2h0UnVsZSxIaWdoSW50ZXJhY3RpdmVXZWlnaHRSdWxl",
+			"actors": [{
+				"id": "19551432",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19551432",
+				"avatar_url": "https://pic4.zhimg.com/50/7a579133e50fc9125ff7cda05249fcf1_s.jpg",
+				"name": "心理学",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"show_actor_time": false,
+			"action_text": "心理学",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		},
+		{
+			"id": "3_1580804804.954",
+			"type": "feed",
+			"offset": 3,
+			"verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 982171498,
+				"type": "answer",
+				"url": "https://api.zhihu.com/answers/982171498",
+				"author": {
+					"id": "044b516c51f4e980570c2d69df0d05f8",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/044b516c51f4e980570c2d69df0d05f8",
+					"user_type": "people",
+					"url_token": "T-ara-hyomin",
+					"name": "窗窗",
+					"headline": "克莱登大学二十一世纪学院院长，兼任鹿克斯学院常务副院长。",
+					"avatar_url": "https://pic1.zhimg.com/50/v2-984f0a2e97db09610d442a5f1177ef84_m.jpg",
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"followers_count": 16387,
+					"is_following": false,
+					"is_followed": false
+				},
+				"created_time": 1579659241,
+				"updated_time": 1579763757,
+				"voteup_count": 142,
+				"thanks_count": 28,
+				"comment_count": 100,
+				"is_copyable": true,
+				"question": {
+					"id": 360011303,
+					"type": "question",
+					"url": "https://api.zhihu.com/questions/360011303",
+					"author": {
+						"id": "c8e33fb33603eb1e7248a702dc4d3921",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/c8e33fb33603eb1e7248a702dc4d3921",
+						"user_type": "people",
+						"url_token": "bai-ru-89",
+						"name": "海的女儿",
+						"headline": "",
+						"avatar_url": "https://pic1.zhimg.com/50/v2-653637375411b5f5c27f0f6dd4d5b37a_m.jpg",
+						"is_org": false,
+						"gender": 0,
+						"badge": [],
+						"followers_count": 2,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "山西这几个市(除了太原)哪个好？",
+					"created": 1575853301,
+					"answer_count": 205,
+					"follower_count": 343,
+					"comment_count": 3,
+					"bound_topic_ids": [
+						29294,
+						31446,
+						160791
+					],
+					"is_following": false,
+					"excerpt": "",
+					"relationship": {
+						"is_author": false
+					},
+					"detail": "",
+					"question_type": "normal"
+				},
+				"thumbnail": "https://pic4.zhimg.com/50/v2-cbb5144a9fb16ed2673b4f9b56dcd03c_200x112.jpg",
+				"excerpt": "根据内参：朔州是山西发展最差的市，来看。合理的方法就是比较房价。所以综合来看， 运城平均比忻州略好，但是运城发展更均衡，所以忻州市核心区要略好于运城。&mdash;&mdash;&mdash; 与此同时，我们注意到，尽管大同比忻州朔州好不少，但是似乎已经和南边发展有了差距。 倒着强行解释的话， 可能房价表示出了居民对定居于此所享受服务价值的估价吧。也再一次说明平均数比中位数意义小太多了。 &mdash;&mdash;&mdash;&hellip;",
+				"excerpt_new": "根据内参：朔州是山西发展最差的市，来看。合理的方法就是比较房价。所以综合来看， 运城平均比忻州略好，但是运城发展更均衡，所以忻州市核心区要略好于运城。&mdash;&mdash;&mdash; 与此同时，我们注意到，尽管大同比忻州朔州好不少，但是似乎已经和南边发展有了差距。 倒着强行解释的话， 可能房价表示出了居民对定居于此所享受服务价值的估价吧。也再一次说明平均数比中位数意义小太多了。 &mdash;&mdash;&mdash;&hellip;",
+				"preview_type": "default",
+				"preview_text": "",
+				"reshipment_settings": "allowed",
+				"content": "<p><b>根据内参：朔州是山西发展最差的市，来看。</b></p><p>合理的方法就是比较房价。所以综合来看，<b>运城平均比忻州略好，但是运城发展更均衡，所以忻州市核心区要略好于运城。</b></p><p>——————————————</p><p>与此同时，我们注意到，尽管大同比忻州朔州好不少，但是似乎已经和南边发展有了差距。</p><p>倒着强行解释的话，<b>可能房价表示出了居民对定居于此所享受服务价值的估价吧。</b></p><p>也再一次说明平均数比中位数意义小太多了。</p><p>——————————————</p><p>如果你以为我只有这么点东西可就错了嗷~~</p><p>duck以看一下下一步这两个城市要发展完善的东西嘛。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-6c621f8c4852a387f5cc7a223005bedb_hd.jpg\" data-rawwidth=\"970\" data-rawheight=\"568\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-85d956457e5816508340d6ea2743628e_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"970\" data-original=\"https://pic2.zhimg.com/v2-6c621f8c4852a387f5cc7a223005bedb_r.jpg\"/><figcaption>——2020年山西省政府工作报告</figcaption></figure><p>———————————————</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/50/v2-c91b3a2d00873b1072689ebedde9a3d4_hd.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1106\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-52e1637d668f80aa1f23f0c9ce9ab14a_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-c91b3a2d00873b1072689ebedde9a3d4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在城镇居民的人均可支配收入方面，全省最高的是省会太原市，达到31469元，增速为8.7%，为全省省辖市中最高的速度；位居该项收入指标第二、第三位的是朔州市和晋中市，分别达到30989元、30927元，晋城市30142元、长治市30060元（增速为7%，全省地级市中的第二名）、阳泉市29581元、临汾市28873元、大同市27981元、运城市27302元、忻州市26536元、吕梁市25704元。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-86eb2a2648a592a08eb243c026ab016b_hd.jpg\" data-rawwidth=\"1079\" data-rawheight=\"1523\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-4e4cf090a7259b866996eb68b3c2c635_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1079\" data-original=\"https://pic4.zhimg.com/v2-86eb2a2648a592a08eb243c026ab016b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/50/v2-ff7cd5c7e7e01c16aa7ff6ff5efd5040_hd.jpg\" data-rawwidth=\"808\" data-rawheight=\"6704\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-6d84c7b9f55066a987b57a73af249798_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"808\" data-original=\"https://pic2.zhimg.com/v2-ff7cd5c7e7e01c16aa7ff6ff5efd5040_r.jpg\"/></figure><p>——————————————————————————</p><p>那么根据这个思路。很自然的想康康全国的房价排名。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-92355f85acd099e1a65fb4fa16c27b77_hd.jpg\" data-rawwidth=\"480\" data-rawheight=\"3038\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-28dd1615a51e9eef953f9e4f9665d7f6_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-92355f85acd099e1a65fb4fa16c27b77_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-d8125155c9516845bef3ebf65b59a0bb_hd.jpg\" data-rawwidth=\"480\" data-rawheight=\"2957\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-40beed93de5d5160a52bb2eedd9e40fd_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-d8125155c9516845bef3ebf65b59a0bb_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-978e3011a9ec8e63dac95f48c1c26ccd_hd.jpg\" data-rawwidth=\"480\" data-rawheight=\"2957\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-478a8e8d4788e8cc0daa1c6d7162f807_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-978e3011a9ec8e63dac95f48c1c26ccd_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/50/v2-f7feef479e9c580bbe134751c2965c01_hd.jpg\" data-rawwidth=\"600\" data-rawheight=\"833\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-91e65d29eb7e758f07909bb740c66027_hd.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-f7feef479e9c580bbe134751c2965c01_r.jpg\"/></figure><p>所以说嘛，这个思路还是勉强有趣的。</p><p>你根本不知道322个城市，这倒数十个都是个啥条件。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/50/v2-6e12a5e9a709d1bb07c6433b0617a02d_hd.jpg\" data-rawwidth=\"381\" data-rawheight=\"480\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-c846ed45351ddef41e9f21f26749db02_hd.jpg\" class=\"content_image\" width=\"381\"/></figure><p>1.<b>鹤岗市位于黑龙江省东北部，人口100万。</b>地表水和地下水资源比较丰富。水域面积达10.95万公顷，有黑龙江、松花江两条界江及大小河流112条，年平均径流量30.50亿立方米。全市可利用水资源总量为26.75亿立方米。其中，可利用地表水资源为7.18亿立方米。可利用地下水资源量为19.57亿立方米，境内有水库13座。鹤岗市矿产资源比较丰富，已发现各类矿产30种，包括：煤、煤层气、铀、岩金、砂金、铁、铜、铍、铅、镍、石棉、蛇纹岩、石墨、矽线石、白云母、白云岩、黄玉、菱镁矿、沸石、大理岩、珍珠岩、玄武岩、花岗岩、玻璃用脉石英、陶粒粘土岩、泥炭、砖瓦用粘土、建筑用砂、矿泉水、地下水。占全省已发现矿种22.9%。已探明矿种有24种，占全省已探明矿种31.17%。煤炭、石墨、水泥用大理岩为优势矿产。 鹤岗市山区面积较大，动植物资源丰富，广大山区、林区生存着梅花鹿、麝、野猪、棕熊、獾、樟子、貂、丹顶鹤、等30多种；有年蕴藏量25万公斤的蜂蜜资源；全市共有水面资源10.95万公顷，占总土地面积的7.4%。养鱼水面50000亩，鱼类产量6276吨，其中天然捕捞696吨，养殖5580吨。人工养鱼的主要种类有鲤、鲢、鳙、草、鲫等五种。江河水域中鱼的种类较多，有分布较广的鲤科，也有分布较窄的鲑科、鲟科、狗科。有白鲑、草鱼、鳜鱼、鲟、蝗鱼、大马哈鱼以及鳌花、鳊花、鲫花、哲罗、法罗等。鲟、鳇鱼产量每年达15吨左右，鱼籽年量200多公斤。 </p><p>2.<b>双鸭山市位于黑龙江省东北部，人口142万。</b>年平均水资源量36.96亿立方米，其中地表水资源量30.22亿立方米，地下水资源量13.63亿立方米，重复计算量6.89亿立方米。地下水资源丰富，渗透性强，为碳酸盐水，水质较好，地下水主要补给来源为大气降水，其次是基岩裂隙水及地表水。 双鸭山市先后发现各类矿产50余种，查明矿产资源的有12种，各类矿床69处，矿点、矿化点223处。查明矿产资源的12种矿产分为四大类，既能源矿产、金属矿产、非金属矿产、水汽矿产。<b>其中能源矿产以煤为主</b>，包含无烟煤、烟煤（贫煤、瘦煤、焦煤、肥煤、气煤、弱粘煤、不粘煤、长焰煤）、褐煤；金属矿产包括黑色金属矿产铁、有色金属矿产钨（伴生）、贵金属矿产金；非金属矿产包括石墨、长石、矽线石、制灰用石灰岩、饰面用花岗岩、水泥用大理岩、泥炭等；水气矿产矿泉水。双鸭山市森林覆盖率40%。地方林业系统共有23个国有林场，截至2015年年底，森林面积26.37万公顷，活立木总蓄积量1761.53万立方米。植被类型为温带针阔叶混交林。 野生药用植物主要有150余种，常用的有60余种。双鸭山市哺乳动物主要有东北虎、黑熊、马鹿、梅花鹿、狍子、狐狸、豹、猞猁、野猪、獾、冰獭等。其中多数为国家和省列为禁猎的保护动物。</p><p>3.<b>金昌市位于甘肃省中部，人口46万。</b>地处内陆干旱区，工农业和城市用水主要依赖祁连山区降水和东大河源头高山冰雪融水供给。东大河源头冰川，处于祁连山冷龙岭山区，共有冰川62条，总面积34.43平方公里，总储量1.1829立方公里，分布在海拔高程4040—5154米之间。全市地表水来源主要是祁连山区的大气降水和高山冰雪融化。主要河流有东大河、西大河和金川河，均属石羊河水系，为常年性内陆河。此外，还有清河（乌牛坝）和18条小沟小河，其中常年流水的只有6条，流量小，流程短。市境内地下水，大致分为山区基岩裂隙水和平原地下潜水两个类型。地下水的补给，主要靠山区沟谷潜流、山前河流渠道及降雨渗入。地下水分布区域较广，南部草原、西部草原、北部草原分布数量较多，而水量很小。</p><p>4.<b>塔城地区地处新疆维吾尔自治区西北部，人口93万。</b>历史上，塔城地区曾是中国通往中亚的重要通道。塔城地区向西四个口岸、向北三个口岸的公路、铁路及中哈输气输油管道、凤凰—乌苏—伊犁750输变线路横贯全境，渝新欧等四条跨国铁路国际联运必经乌苏市、沙湾县；奎北铁路纵穿和布克赛尔县。乌鲁木齐至塔城高速公路全线贯通。民航塔城机场每天有三班飞往乌鲁木齐的航班、疆内通往阿勒泰、伊犁环线航班已经开通。塔城地区水资源比较丰富，境内天山山脉的依连哈比尔尕山和婆罗科努山侧海拔3600米以上的高山区，以及萨吾尔山木斯套峰南侧海拔3380米以上，有大小冰川1361条。境内冰川融化水共8.26亿立方米，占地区13条主要河流年径流量的33.28%。塔城地区有大小河流107条，其中年径流量1亿立方米以上的有12条。这些河水除用于农牧业、工业生产和人民生活外，山区河流河床纵坡陡、落差大，水能总蕴藏量16.85万千瓦。塔城地区有山泉126条，年均总径流量约1.94亿立方米。</p><p>5.<b>石嘴山市，</b><a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%25AE%2581%25E5%25A4%258F%25E5%259B%259E%25E6%2597%258F%25E8%2587%25AA%25E6%25B2%25BB%25E5%258C%25BA/11229891\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">宁夏回族自治区</a><b>辖地级市，位居宁夏最北端，东临鄂尔多斯台地，西踞银川平原北部，人口80万。</b>石嘴山市东临鄂尔多斯台地，西踞银川平原北部。海拔在1090米～3475.9米之间，按地形地貌可分为贺兰山山地、贺兰山东麓洪积扇冲积平原、黄河冲积平原和鄂尔多斯台地四种类型。境内<b>贺兰山</b>最高峰海拔3475.9米，面积1605.7 平方千米，占石嘴山市土地总面积的30.24%。年平均降水量的地理分布较为均匀，全市年平均降水量在167.5毫米～188.8毫米。年蒸发量在1708.7～2512.6毫米，是降水量的10～14倍，处于干旱半干旱地区。煤炭资源是石嘴山市传统的优势矿产资源。探明储量为21.9亿吨。保有储量17.03亿吨，有11个煤种，被誉为“太西乌金”的太西煤保有储量6.5亿吨，是世界煤炭珍品，具有“三低、六高”（低灰、低硫、低磷，高发热量、高比电阻率、高机械强度、高精煤回收率、高块煤率、高化学活性）特点，广泛用于冶金、化工、建材等行业。——莫等闲、白了少年头，空悲切！靖康耻，犹未雪。臣子恨，何时灭！驾长车，踏破贺兰山缺。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头、收拾旧山河，朝天阙。</p><p>——————————————————————————</p><p><b>事实上是有人专门从事于城市竞争力和城市年鉴的。×3强调！</b></p>",
+				"mark_infos": [],
+				"relationship": {
+					"is_thanked": false,
+					"is_nothelp": false,
+					"voting": 0,
+					"upvoted_followee_ids": []
+				},
+				"is_labeled": false,
+				"visited_count": 46966
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 982171498}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "20026063",
+					"object_type": "topic",
+					"reason_text": "晋中市"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19637866",
+					"object_type": "topic",
+					"reason_text": "山西"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19644354",
+					"object_type": "topic",
+					"reason_text": "太原"
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "044b516c51f4e980570c2d69df0d05f8",
+					"object_type": "people",
+					"reason_text": "窗窗创作的内容"
+				}
+			],
+			"attached_info": "Ct8BCOGbrY3c+dSMYBAEGgkyMDg2NDA2Njgg6d+e8QUojgEwZEADSg0KBEZSRlISATAYACAAUhFmZWVkcmVfYWRkX2Fuc3dlcloINDIyODA5MDdyCTk4MjE3MTQ5OHgBggFJaHR0cHM6Ly9waWM0LnpoaW1nLmNvbS81MC92Mi1jYmI1MTQ0YTlmYjE2ZWQyNjczYjRmOWI1NmRjZDAzY18yMDB4MTEyLmpwZ4oBCTM2MDAxMTMwM6oBCXJlY29tbWVuZPIBGwgAEhdydzotMS4wO2lzbzo0NS4wO2JpOjAuMA==",
+			"actors": [{
+				"id": "19637866",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19637866",
+				"avatar_url": "https://pic3.zhimg.com/50/418c9fd02_s.jpg",
+				"name": "山西",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"show_actor_time": false,
+			"action_text": "山西",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		},
+		{
+			"id": "4_1580804804.210",
+			"type": "feed",
+			"offset": 4,
+			"verb": "TOPIC_ACKNOWLEDGED_ARTICLE",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 69264117,
+				"type": "article",
+				"url": "https://api.zhihu.com/articles/69264117",
+				"author": {
+					"id": "6edd44da61bb3efa8f04025a80e24112",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/6edd44da61bb3efa8f04025a80e24112",
+					"user_type": "people",
+					"url_token": "fan-zheng-shi-wo-50-6",
+					"name": "Rising",
+					"headline": "选购笔记本电脑方面的详细咨询请走付费咨询。",
+					"avatar_url": "https://pic1.zhimg.com/50/v2-d868796dc016e61977e383ec86a89f87_m.jpg",
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"followers_count": 16001,
+					"is_following": false,
+					"is_followed": false
+				},
+				"title": "给大学生的笔记本电脑推荐（2020.02.04已更新）",
+				"excerpt_title": "",
+				"image_url": "https://pic3.zhimg.com/50/v2-24c4c7d4c4f6a4149890aba0e940dc6e_hd.jpg",
+				"comment_permission": "follower",
+				"created": 1560583004,
+				"updated": 1580800323,
+				"voteup_count": 44183,
+				"voting": 0,
+				"upvoted_followees": [],
+				"comment_count": 1632,
+				"linkbox": {
+					"pic": "",
+					"title": "",
+					"url": "",
+					"category": ""
+				},
+				"excerpt": "2020.02.04已更新，正常情况下本文的更新周期为一个星期。1，移除了RedmiBook 14 锐龙版（竞争力下降） 2，移除了RedmiBook 14 增强版（竞争力下降） 3，移除了华为 Matebook14 集显/独显（新款已上市） 4，添加了华为 MateBook 14 2020款-全能本 5，修改了&hellip;",
+				"excerpt_new": "2020.02.04已更新，正常情况下本文的更新周期为一个星期。1，移除了RedmiBook 14 锐龙版（竞争力下降） 2，移除了RedmiBook 14 增强版（竞争力下降） 3，移除了华为 Matebook14 集显/独显（新款已上市） 4，添加了华为 MateBook 14 2020款-全能本 5，修改了&hellip;",
+				"preview_type": "default",
+				"preview_text": "",
+				"column": {
+					"id": "fan-zheng-shi-wo-50-6",
+					"type": "column",
+					"url": "https://api.zhihu.com/columns/fan-zheng-shi-wo-50-6",
+					"author": {
+						"id": "6edd44da61bb3efa8f04025a80e24112",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/6edd44da61bb3efa8f04025a80e24112",
+						"user_type": "people",
+						"url_token": "fan-zheng-shi-wo-50-6",
+						"name": "Rising",
+						"headline": "选购笔记本电脑方面的详细咨询请走付费咨询。",
+						"avatar_url": "https://pic1.zhimg.com/50/v2-d868796dc016e61977e383ec86a89f87_m.jpg",
+						"is_org": false,
+						"gender": 1,
+						"badge": [],
+						"followers_count": 16001,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "Rising",
+					"image_url": "https://pic1.zhimg.com/50/v2-d868796dc016e61977e383ec86a89f87_m.jpg",
+					"comment_permission": "all",
+					"updated": 1458209676
+				},
+				"content": "<p><b>2020.02.04已更新，正常情况下本文的更新周期为一个星期。</b></p><p>1，移除了RedmiBook 14 锐龙版（竞争力下降）</p><p>2，移除了RedmiBook 14 增强版（竞争力下降）</p><p>3，移除了华为 Matebook14 集显/独显（新款已上市）</p><p>4，添加了华为 MateBook 14 2020款-全能本</p><p>5，修改了联想 YOGA S740的推荐版本</p><p>6，调整了联想 小新Air14 AMD锐龙版的价位</p><p>7，调整了荣耀 MagicBook 14/15的价位</p><p>8，调整了LG Gram 13/14/15Z990的价位</p><p>9，调整了惠普 战X 13的价位</p><p>10，修改了宏碁 暗影骑士4的优劣势信息</p><p class=\"ztext-empty-paragraph\"><br/></p><p>写这篇文章已经有一年的时间了，期间一直保持着更新，写这篇文章的目的就是想帮助大学生们买到适合自己的笔记本，避免因为什么都不懂而被坑，当初的我也和你们一样，面对笔记本电脑的各种参数、各种配置信息和各类品牌如何选择等等一无所知，想购买电脑时不知从何下手，于是到处去问身边其实不是很懂电脑的朋友，或者被家长带到实体店去选电脑，这个时候就很容易掉入商家或朋友的坑中，买到商品和价格极其不对等的电脑，网上卖的价格比实体店便宜几千，等到要用一些软件或是想玩一些游戏的时侯发现根本运行不了等等，我身边有很多这样的例子，这篇文章就是想帮助大家避免这些情况。</p><p><b>PS：</b>虽然本文的内容是针对大学生来写的，但其他人士同样也可以参考本文来选购笔记本电脑。</p><p>本文的内容主要是教大家如何选购适合自己的笔记本电脑，有些方面说的就比较直接，相关知识科普较少，<b>目的是想让大家花尽可能少的时间买到适合自己的笔记本电脑</b>，对这方面知识感兴趣的同学可以去看知乎上其他的一些科普文章，<b>可以保证只要是通过推荐的购买渠道买到文章内适合自己的笔记本电脑就不会被坑</b>，那么，如何使用本文买到适合自己的笔记本电脑呢？</p><p><b>小白使用本文的方法：</b></p><p><b>1.</b>先不看笔记本的推荐，也就是下面内容预览的第4部分，把其他内容都浏览一遍，对笔记本电脑的购买渠道、售后服务、各种类型的特点等等有一个大致的了解。</p><p><b>2.</b>有一个大致的了解后，再根据自己专业需要用到的软件和要玩的游戏对电脑配置的要求，来确定将要购买的笔记本类型，<b>是否需要上游戏本或高性能全能本，还是买轻薄本或全能本就够了（一定要做完第一步），</b>如果不知道软件和游戏对电脑配置的要求可以自行搜索，也可以等到入学后，对专业用到的软件所需电脑的最高配置有一定了解后再购买笔记本电脑。</p><p><b>3.</b>确定好自己将要购买的笔记本电脑类型后，翻到文章该类型笔记本电脑的推荐部分，在自己的最高预算内挑选出自己喜欢，适合自己的笔记本电脑（可以考虑是否需要加预算用来购买性能更强、屏幕素质更好、售后服务更方便等等 的笔记本电脑来满足自己的需求）。</p><p><b>4.</b>如果实在不会选，欢迎点击文章末尾的链接向我提问（有偿）。</p><p>另外，本篇文章将在知乎和微信公众号—笔记本电脑选购指南 同步更新，公众号发布的文章只有笔记本电脑的推荐，去掉了其他内容，方便大家查阅，欢迎关注。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>由于文章较长，在这里做一个内容预览：</b></p><p>1.关于选购笔记本各个方面的解答</p><p>2.介绍了如何以更优惠的价格买到笔记本电脑的方法，一般情况下都能让你省一些钱</p><p>3.各种类型笔记本的特点</p><p>4.各种类型各个价位的笔记本电脑的推荐（主体部分）</p><p>5.向我进行付费咨询的链接</p><p><b>朋友们顺手点一下赞啊，别光顾着收藏，给我一点更新下去的动力。感谢每个赞赏和点赞的人。</b></p><hr/><h2><b>关于大学各类专业笔记本电脑类型的选择：</b></h2><p>首先说<b>文科类专业</b>（法学、经济学、管理学等），大部分专业对电脑性能要求不高，在文章中的轻薄本和全能本里选就可以；特别的，<b>艺术类专业</b>里面的影视类和设计类：这两类专业对电脑的屏幕素质有要求，预算充足的情况下不要选择文章中有“屏幕素质一般”劣势的笔记本电脑。影视类专业一般要用到视频剪辑、视频特效、三维动画渲染制作等方面的软件，这些软件都很吃电脑的性能，需要在游戏本和高性能全能本中选购。设计类专业，如果只涉及一些2D修图、画图类软件（PS、LR等），轻薄本或全能本就能满足需求，但如果同时涉及到了上面影视类专业的软件，也需在游戏本和高性能全能本中选购。</p><p>然后是<b>理工类专业</b>，专业如果涉及到3D制图、建模、渲染方面（机械、建筑等等），需在游戏本和高性能全能本中选购，这些都比较吃性能；涉及人工智能、深度学习方面的，显卡建议选20系的（RTX2060/70/80）。理工类未涉及到以上方面的专业，选购笔记本的类型不受限制。</p><p><b>游戏本不是只能用来玩游戏的，也可以胜任大学专业的学习，希望大家不要“以名取本”。</b></p><h2><b>关于笔记本电脑的购买渠道：</b></h2><p>在这里列出几个靠谱的渠道，可以自行比比价，看哪个渠道价格低就在哪买。</p><p><b>1.京东上的品牌自营旗舰店  2.品牌官网  3.京东和天猫上的品牌官方旗舰店  4.苏宁自营，其他购买渠道一律不推荐。文章中所有笔记本电脑后面的购买链接均来自京东自营和京东官方旗舰店。</b></p><p><b>严禁电脑小白通过实体店等一切线下购买方式购买笔记本，具体原因可以自行在知乎上搜索“电脑实体店”，看几个回答你就明白了，你可以在实体店体验机型，但是绝对不要在实体店买。</b></p><h2><b>关于购买笔记本电脑的最低预算：</b></h2><p>文章中推荐的电脑是按价格从低到高排序的，所以<b>每种笔记本类型推荐的第一款的售价即为购买该类型笔记本电脑的最低预算（能用的水平），</b>笔记本不像手机，手机三千多元你可以买到一款旗舰机，而三千多元拿来买笔记本电脑可能连最低端的款式都买不到，<b>如果是有条件的，建议至少准备5000-6000预算用于购买笔记本电脑。</b></p><h2><b>关于笔记本电脑的屏幕素质：</b></h2><p><b>文章中屏幕素质一般（屏幕色域低于72%NTSC）的笔记本电脑我会在劣势中写明，劣势中无说明的则默认屏幕色域在72%NTSC以上。</b></p><p><b>（文章中推荐的笔记本以下要求基本达标）</b>如果不是超高刷新率的电竞屏，就尽量选择IPS材质的屏；笔记本电脑的屏幕色域起码要在45%NTSC以上；屏幕分辨率现在的主流是1920*1080，更低的就不要考虑了；亮度也很重要，亮度太低了在强光下根本无法使用，现在大部分IPS屏幕最高亮度在300nit左右，尽量不要选300nit以下的。</p><h2><b>关于i5和i7、R5和R7：</b></h2><p><b>笔记本电脑的CPU如果是低压的（CPU型号后缀是U为低压，H为标压，如i5-10210U为低压，i5-9300H为标压），一律不推荐上i7（六核的i7-10710U除外），</b>因为低压i7相对于i5性能提升较小（10%以内），而为了这不到10%的性能提升往往要多花五百到一千，性价比低。</p><p><b>锐龙的R5和R7处理器无论是低压还是标压，性能差距都比较小，所以一般都推荐R5。</b></p><p><b>R5-3500U和i5-8265U之间的区别</b>（i5-10210U是i5-8265U的马甲版本，提升不大）<b>：</b>两款处理器在性能上是比较接近的，但锐龙的R5处理器在续航、驱动、兼容性、稳定性等方面是没有英特尔好的，所以同样一款电脑，携带锐龙处理器的版本会比英特尔处理器版本便宜好几百甚至一千多，算是价格上的妥协。</p><p><b>游戏本中的高性能游戏本预算充足时可以考虑购买i7版本。</b>在入门级游戏本中，i5和i7对电脑性能的影响几乎一样，因为存在CPU性能过剩，<b>当显卡在GTX1060以上时，CPU的性能才会对电脑的整体性能造成影响。</b>此外，由于i7的核心数和线程更多，可以更好地处理多核任务（比如渲染，建模等），有这方面需求的同学也可以考虑购买<b>标压i7</b>的笔记本电脑。</p><p><b>上面的话一定要认真看完啊！！！老是有人拿着一张低压i7的轻薄本或全能本的截图问我这个配置怎么样，性价比高吗，上面说的很清楚了。</b></p><h2><b>关于笔记本电脑的拓展性和运行内存：</b></h2><p><b>拓展性好指的是笔记本有多余的内存插槽或硬盘插槽，有需要的用户可以自行升级。</b></p><p>目前所有笔记本电脑运行内存的容量都应在8G以上，<b>大多数轻薄本没有额外的内存插槽，所以如果想购买16G内存的轻薄本只能购买官方已经配置好的版本，多数游戏本和部分全能本有多个内存插槽和硬盘插槽</b>，购买了高性能游戏本的用户，如果购买的是8G内存版本，建议到手后再去售后点加一根和原装相同规格的内存条组成双通道内存，因为有些游戏比较吃CPU和内存，单通道内存会导致游戏内帧数偏低，同时双通道内存也可以让高性能显卡更好的发挥性能（双通道内存对入门级显卡的制约较小）。同理，需要使用的软件如果很吃CPU也建议加一根内存条，其他购买了有额外内存插槽笔记本的用户有条件的话也可以加，毕竟额外的内存插槽不用也是闲着，双通道内存能提升你的日常使用体验。</p><p><b>一句话总结：16G双通道内存能上就上，百利而无一害。去售后点加一根8G内存条的价格在250-350之间，加的时候要注意加上去内存条的频率和容量应大于或等于原来的。</b></p><h2><b>关于笔记本电脑的性能释放：</b></h2><p>性能释放指笔记本电脑上配置性能的释放程度，<b>性能释放好</b>就代表着这台电脑比较好地发挥出了配置应该有的性能，那么<b>性能释放一般</b>就表示这台电脑没有发挥出配置应有的性能，<b>有些机型为了做的更轻薄，让表面温度更低、风扇噪音更小，适当地削弱了机器的性能释放能力，这也是比较正常的。</b>性能释放很差的机型不会出现在我的推荐表中，这样的机型往往会出现“高配低能”的现象。</p><h2><b>关于笔记本电脑的使用寿命：</b></h2><p><b>笔记本电脑的使用寿命一般都在3-5年</b>（不包括意外情况），没有说价格贵的笔记本使用寿命就长一些，价格贵的笔记本只是在使用期间用户体验好一些，如果在笔记本在保修期发生了意外情况，品牌售后可以帮你解决问题，过了保修期就只能自行想办法解决了。</p><p>如果你的电脑很幸运的在购买5年之后还能使用，那时候电脑的主流配置也已经远远超过你5年前购买的电脑了，你还是会选择换电脑。</p><h2><b>关于笔记本电脑的品牌：</b></h2><p>文章中推荐的所有电脑都与品牌无关，<b>每个品牌都会有好产品也会有不好的产品，单以一个品牌的部分产品来评判整个品牌是片面的，做推荐只关注产品本身，品牌仅仅与售后维修的方便程度有关（下面介绍了）</b>，这里引用一句很经典的话“单以品牌讨论产品的行为都是耍流氓“。</p><h2><b>关于笔记本电脑的售后服务：</b></h2><p><b>通过正规的渠道购买笔记本电脑后，品牌官方都会默认增送1-3年的保修服务，所以一般情况下京东提供的保修服务都是不需要买的（就是购买页面下方的那些服务），有的款式还会有上门服务、意外保修等等，想知道自己购买的笔记本电脑具体有哪些售后服务可以询问客服。</b></p><p>一线品牌有：联想、惠普、戴尔、苹果、华硕、宏碁。</p><p><b>目前售后服务网点分布最广的三个品牌：联想、戴尔、惠普。在你遇到硬件故障时可以很方便快捷地找到这些服务网点，大幅降低维修所耗时间，所以纯小白用户最好选择这三家的产品。其他的二线品牌</b>像机械革命、神舟、小米、华为、炫龙等<b>的售后服务网点没有一线品牌分布广，维修时耗费的时间会长一些，这也是它们的电脑产品性价比比一线品牌高的原因。如果考虑购买二线品牌的产品，在问了客服品牌的售后服务网点在当地的分布后，如果很少或几乎没有，可以考虑京东的保修服务</b>，虽然也是外包给第三方的，但起码坏了有地方可以去修。</p><h2><b>关于相似价格、配置的笔记本电脑哪个好（指文章中推荐的电脑）：</b></h2><p><b>这个问题只有你自己才能给出答案，因为适合自己的才是最好的，你可以参考我文章列出来的优劣势信息，看你自己更需要、更看重什么。</b>如果觉得文章提供的信息较少，可以去视频网站上找笔记本的实机评测看看。</p><h2><b>关于独立显卡的性能强弱：</b></h2><p><b>对于没有中大型游戏需求和使用软件对图形处理能力要求较高的同学，有无独显对你影响不大。</b></p><p>在机器的散热水平相同的情况下：MX250 &lt; GTX1050 3G &lt; GTX1050Ti &lt; GTX1650 &lt; GTX1660Ti Max-Q &lt; GTX1660Ti &lt; RTX2060 &lt; RTX2070 Max-Q &lt; RTX 2070 &lt; RTX2080 Max-Q &lt; RTX 2080。</p><blockquote>详情可参考孤独凤凰战士的文章：<a href=\"https://zhuanlan.zhihu.com/p/70026069\" class=\"internal\">孤独凤凰战士：【点评】2款16系GTX新Max-Q点评&amp;新系列笔记本显卡天梯图</a>。</blockquote><h2><b>关于电商平台上的对电脑的评论：</b></h2><p>每款电脑下面都会有差评，无参考价值，不用看，就算你真的很倒霉，碰上了机器有质量问题，那正规渠道15天之内也是可以退换货的。</p><h2><b>关于笔记本电脑的配件推荐：</b></h2><p>目前只写了鼠标的，其他的配件以后会更新。</p><a href=\"https://zhuanlan.zhihu.com/p/91023558\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising：电脑配件推荐篇—鼠标（2020.01.26已更新）</a><hr/><p><b>怎么以更低的价格买到你想买的笔记本 重点 重点 重点！！！（土豪可以不用看）</b></p><p><b>参考历史价格波动，等到中间价或最低价时再购买：</b></p><p>首先复制笔记本的网址链接，百度搜索一些比价网站（手机端可以下载一个App），把链接粘贴上去点搜索</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b5cc750a94fa3dad08b1c8e9ad356d11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1044\" data-rawheight=\"35\" class=\"origin_image zh-lightbox-thumb\" width=\"1044\" data-original=\"https://pic2.zhimg.com/v2-b5cc750a94fa3dad08b1c8e9ad356d11_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-13521c8a4a2ba94a16d9b27d6808ac97_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1366\" data-rawheight=\"609\" class=\"origin_image zh-lightbox-thumb\" width=\"1366\" data-original=\"https://pic4.zhimg.com/v2-13521c8a4a2ba94a16d9b27d6808ac97_r.jpg\"/></figure><p>接下来就会出现商品的价格波动图 </p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7dc3cffb1a7411d0798a5ca0af50f0a0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1055\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"1055\" data-original=\"https://pic1.zhimg.com/v2-7dc3cffb1a7411d0798a5ca0af50f0a0_r.jpg\"/></figure><p>我搜索的这款笔记本价格波动区间还比较小，有的笔记本价格波动区间很大，最高价和最低价能差一两千块，如果时间不急的话最好等到最低价或中间价时再购买。</p><hr/><p>以下是正文：</p><p>在做笔记本的推荐之前之前我们先来了解下笔记本的基本类型：</p><p><b>1.游戏本：</b>在同价位里配置和性能要优于其他两种类型笔记本，其缺点是大部分游戏本都较厚较重，续航也较弱。<b>入门级游戏本</b>可以开中低特效运行如今市面上的大多游戏，能够胜任入门级学习类软件；<b>高性能游戏本</b>可以开高特效流畅运行多数大型游戏，基本能满足游戏玩家的需求，同时也可以胜任大部分非专业高负载类应用；<b>轻薄类游戏本</b>是追求高性能和轻薄共存的产物，机身的重量和厚度相对于普通游戏本有一定程度的减少，续航有一定程度的增加，但大部分轻薄类游戏本的散热能力因此被削弱，导致性能要稍弱于高性能游戏本。</p><p><b>2.轻薄本：</b>优点是比较轻，便携性好，适合经常要拿着笔记本到处走的人群，适合追剧，使用一些办公软件，续航时间相对较长，可以运行一些不吃配置的游戏（CF、LOL、卡牌类游戏），不适合运行高负载类软件和中大型游戏。</p><p><b>3.全能本：</b>尺寸一般会比轻薄本大一些，既轻薄又有一定的游戏性能，可以运行一些优化较好的游戏（CSGO、DOTA2、GTA5），但厚度重量比不上轻薄本，性能也没有游戏本强，对配置要求较高的游戏只能开低画质运行，如果你是一名偶尔玩玩游戏，不全是为了玩游戏而买电脑，游戏也只是随便玩，并且对游戏体验不是很在意的同学可以选择全能本。<b>高性能全能本</b>和轻薄类游戏本有点相似，同样是追求高性能和轻薄共存，但散热普遍较差，不适合玩中大型游戏，可以胜任入门级学习类软件，适合需用到学习类软件但不玩中大型游戏的同学选购。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下面开始笔记本的推荐：</p><p><b>注意：优势劣势看个人喜好，如果觉得有些劣势影响不是很大可以选择性忽略。</b></p><p><b>文章内推荐的笔记本电脑没有大坑，确定笔记本的类型后可以随意选购，文章内未出现的机型一律不推荐。</b></p><p><b>每一类的笔记本电脑价格从低到高依次排列，售价仅供参考，笔记本电脑的价格会经常波动，文章中的售价大部分为京东自营笔记本电脑促销降价时的售价。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>1.全能本</b></h2><a href=\"https://zhuanlan.zhihu.com/p/88710516\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising：给大学生的笔记本电脑推荐—全能本</a><h2><b>2.轻薄本</b></h2><a href=\"https://zhuanlan.zhihu.com/p/88714036\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising：给大学生的笔记本电脑推荐—轻薄本</a><h2><b>3.游戏本</b></h2><a href=\"https://zhuanlan.zhihu.com/p/89113754\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising：给大学生的笔记本电脑推荐—游戏本</a><h2><b>4.高价位笔记本</b></h2><a href=\"https://zhuanlan.zhihu.com/p/89290187\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising：高价位笔记本电脑推荐（一万一以上）</a><hr/><p><b>如果看完本文章还是无法选择，有特殊的需求或问题，您可以写清楚您的预算、需求和问题向我发起付费咨询：</b></p><a href=\"https://www.zhihu.com/consult/people/1003762570456596480?ab_signature=CiRBQkNtQ01YdHVRMUxCU3kxN2dNWHFuRFFIellJMC1tWXF4Yz0SIDZlZGQ0NGRhNjFiYjNlZmE4ZjA0MDI1YTgwZTI0MTEyGhAIARIGNS4zNS4xGgQxMDk0\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">Rising的付费咨询</a><p>感谢您的阅读，如有错误，欢迎批评指正。有问题可在文章评论留言，我会尽量回复（直接让推荐电脑的不会回复）。</p>",
+				"is_labeled": false,
+				"visited_count": 2721797
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"article\", \"id\": 69264117}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19774325",
+					"object_type": "topic",
+					"reason_text": "购机咨询"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19559604",
+					"object_type": "topic",
+					"reason_text": "笔记本电脑"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19555480",
+					"object_type": "topic",
+					"reason_text": "大学生"
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "6edd44da61bb3efa8f04025a80e24112",
+					"object_type": "people",
+					"reason_text": "Rising 创作的内容"
+				}
+			],
+			"attached_info": "Co8CCOGbrY3c+dSMYBAHGgkxMDM1MjA5MTgg3LaS6AUol9kCMOAMQARKFgoESUNBThIKMjA0NTkzMjk2MBgAIABSGml0ZW1fY2ZfYW5zd2VyX2FkZF9hcnRpY2xlcgg2OTI2NDExN3gJggFAaHR0cHM6Ly9waWMzLnpoaW1nLmNvbS92Mi0yNGM0YzdkNGM0ZjZhNDE0OTg5MGFiYTBlOTQwZGM2ZV9yLmpwZ6oBCXJlY29tbWVuZPIBVwgAElNydzo4LjA7aXNvOjQ2LjA7Ymk6MC4wO3J1bGVzOkhpZ2hJbnRlcmFjdGl2ZVdlaWdodFJ1bGUsR29vZFN0dWZmUmVjb21tZW5kV2VpZ2h0UnVsZQ==",
+			"actors": [{
+				"id": "19774325",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19774325",
+				"avatar_url": "https://pic1.zhimg.com/50/1efc70525_s.jpg",
+				"name": "购机咨询",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"show_actor_time": false,
+			"action_text": "购机咨询",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		},
+		{
+			"id": "5_1580804804.783",
+			"type": "feed",
+			"offset": 5,
+			"verb": "TOPIC_ACKNOWLEDGED_ANSWER",
+			"created_time": 1580804804,
+			"updated_time": 1580804804,
+			"target": {
+				"id": 998201023,
+				"type": "answer",
+				"url": "https://api.zhihu.com/answers/998201023",
+				"author": {
+					"id": "93ecf1819cfec7584f4b9480e208f9d9",
+					"type": "people",
+					"url": "https://api.zhihu.com/people/93ecf1819cfec7584f4b9480e208f9d9",
+					"user_type": "people",
+					"url_token": "bobo-70-71-47",
+					"name": "P0ssG0D",
+					"headline": "苦逼运维",
+					"avatar_url": "https://pic4.zhimg.com/50/v2-24bb5ccd6ace0a59733c90b3c3b4f47c_m.jpg",
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"followers_count": 0,
+					"is_following": false,
+					"is_followed": false
+				},
+				"created_time": 1580803398,
+				"updated_time": 1580803398,
+				"voteup_count": 0,
+				"thanks_count": 0,
+				"comment_count": 0,
+				"is_copyable": true,
+				"question": {
+					"id": 369178712,
+					"type": "question",
+					"url": "https://api.zhihu.com/questions/369178712",
+					"author": {
+						"id": "05a836fc3edb78c1a1855ae76d429f1f",
+						"type": "people",
+						"url": "https://api.zhihu.com/people/05a836fc3edb78c1a1855ae76d429f1f",
+						"user_type": "people",
+						"url_token": "zhang-jun-hao-84-24",
+						"name": "kooker",
+						"headline": "电脑维修员，程序员，",
+						"avatar_url": "https://pic4.zhimg.com/50/da8e974dc_m.jpg",
+						"is_org": false,
+						"gender": 1,
+						"badge": [],
+						"followers_count": 0,
+						"is_following": false,
+						"is_followed": false
+					},
+					"title": "渗透与逆向哪个发展会好点?",
+					"created": 1580618758,
+					"answer_count": 7,
+					"follower_count": 10,
+					"comment_count": 0,
+					"bound_topic_ids": [
+						22208,
+						47411,
+						68402
+					],
+					"is_following": false,
+					"excerpt": "",
+					"relationship": {
+						"is_author": false
+					},
+					"detail": "",
+					"question_type": "normal"
+				},
+				"thumbnail": "",
+				"excerpt": "什么叫渗透测试？ 模拟黑客进行入侵测试叫渗透测试 什么叫逆向（二进制安全） 挖一些系统内核级，或者软件的漏洞。叫二进制安全。包括软件破解也算。 可以这么说 渗透测试 基本都是利用一些已知的技术来做。 但逆向可不是，可以这么说。在渗透测试中使用的漏洞，很可能都是做二进制（逆向）安全的人发现的。 而做逆向的过程中，基本不会用到渗透测试的一些东西。 物以稀为贵，学渗透测试的太多了。市场上基本快人才饱和了。逆向&hellip;",
+				"excerpt_new": "什么叫渗透测试？ 模拟黑客进行入侵测试叫渗透测试 什么叫逆向（二进制安全） 挖一些系统内核级，或者软件的漏洞。叫二进制安全。包括软件破解也算。 可以这么说 渗透测试 基本都是利用一些已知的技术来做。 但逆向可不是，可以这么说。在渗透测试中使用的漏洞，很可能都是做二进制（逆向）安全的人发现的。 而做逆向的过程中，基本不会用到渗透测试的一些东西。 物以稀为贵，学渗透测试的太多了。市场上基本快人才饱和了。逆向&hellip;",
+				"preview_type": "default",
+				"preview_text": "",
+				"reshipment_settings": "allowed",
+				"content": "<p>什么叫渗透测试？</p><p>模拟黑客进行入侵测试叫渗透测试</p><p>什么叫逆向（二进制安全）</p><p>挖一些系统内核级，或者软件的漏洞。叫二进制安全。包括软件破解也算。</p><p>可以这么说 渗透测试 基本都是利用一些已知的技术来做。</p><p>但逆向可不是，可以这么说。在渗透测试中使用的漏洞，很可能都是做二进制（逆向）安全的人发现的。</p><p>而做逆向的过程中，基本不会用到渗透测试的一些东西。</p><p>物以稀为贵，学渗透测试的太多了。市场上基本快人才饱和了。逆向难、深入困难，搞得人比渗透测试的少多了。</p><p>至于您说的价格，应该是薪资。在目前的角度来看，做信息安全这个行业。还是安全开发和安全销售赚得多</p>",
+				"mark_infos": [],
+				"relationship": {
+					"is_thanked": false,
+					"is_nothelp": false,
+					"voting": 0,
+					"upvoted_followee_ids": []
+				},
+				"is_labeled": false,
+				"visited_count": 41
+			},
+			"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 998201023}",
+			"uninterest_reasons": [{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19616726",
+					"object_type": "topic",
+					"reason_text": "网络渗透"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19692066",
+					"object_type": "topic",
+					"reason_text": "Web 安全测试"
+				},
+				{
+					"reason_id": 3,
+					"reason_type": "topic",
+					"object_token": "19754943",
+					"object_type": "topic",
+					"reason_text": "渗透测试"
+				},
+				{
+					"reason_id": 2,
+					"reason_type": "creator",
+					"object_token": "93ecf1819cfec7584f4b9480e208f9d9",
+					"object_type": "people",
+					"reason_text": "P0ssG0D 创作的内容"
+				}
+			],
+			"attached_info": "CsQBCOGbrY3c+dSMYBAEGgkyMTE1NTY5NTIgxsrk8QUoADAAQAVKCgoBUBIBMBgAIABKDgoBVBIFNjg0MDIYACAAUhl0b3BpY19hY2tub3dsZWRnZWRfYW5zd2VyWgg0NDMxNzQ0MnIJOTk4MjAxMDIzeAiKAQkzNjkxNzg3MTKqAQlyZWNvbW1lbmTyATgIABI0cnc6LTIyLjA7aXNvOjkwLjA7Ymk6MjQuMDtydWxlczpQcm9tb3Rpb25CcmVha0luUnVsZQ==",
+			"actors": [{
+				"id": "19754943",
+				"type": "topic",
+				"url": "https://api.zhihu.com/topics/19754943",
+				"avatar_url": "https://pic4.zhimg.com/50/v2-1080f112a39c2f677526058bc866f8e2_s.jpg",
+				"name": "渗透测试",
+				"excerpt": "",
+				"introduction": ""
+			}],
+			"count": 1,
+			"show_actor_time": false,
+			"action_text": "渗透测试",
+			"action_text_tpl": "热门内容, 来自: {}",
+			"action_card": false
+		}
+	],
+	"paging": {
+		"previous": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=7320392bbf60154ccabfc77a03b7af28&desktop=true&page_number=3&limit=6&action=pull&before_id=5",
+		"next": "https://www.zhihu.com/api/v3/feed/topstory/recommend?session_token=7320392bbf60154ccabfc77a03b7af28&desktop=true&page_number=3&limit=6&action=down&after_id=5",
+		"is_end": false
+	},
+	"fresh_text": "关注动态已更新"
+}
